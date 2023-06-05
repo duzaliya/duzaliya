@@ -1,7 +1,5 @@
 ## Hi there 👋, I'm Zaliya
 
-### Ruby on Rails developer
-
 To contact me write in [telegram](https://t.me/Dyukinazaliya)
 
 ### Languages and tools:
